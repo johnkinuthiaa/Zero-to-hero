@@ -7,21 +7,21 @@
 
 <table >
     <thead align="center">
-            <tr border: 1px;>
-                        <td><b>🌟 Stars</b></td>
-                                    <td><b>🍴 Forks</b></td>
-                                                <td><b>🐛 Issues</b></td>
-                                                            <td><b>🔔 Open PRs</b></td>
-                                                                        <td><b>🔕 Closed PRs</b></td>
-                                </tr>
+    <tr border: 1px;>
+    <td><b>🌟 Stars</b></td>
+    <td><b>🍴 Forks</b></td>
+    <td><b>🐛 Issues</b></td>
+    <td><b>🔔 Open PRs</b></td>
+     <td><b>🔕 Closed PRs</b></td>
+    </tr>
 </thead>
-                                                                                         <tbody>
+<tbody>
     <tr>
-    <td><img alt="Stars" src="https://github.com/johnkinuthiaa/Zero-to-hero/stargazers"/></td>
-    <td><img alt="Forks" src="https://github.com/johnkinuthiaa/Zero-to-hero/forks"/></td>
-                                                                                                                                       <td><img alt="Issues" src="https://github.com/johnkinuthiaa/Zero-to-hero/issues"/></td>
-                                                                                                                                                   <td><img alt="Open Pull Requests" src="https://github.com/johnkinuthiaa/Zero-to-hero/pulls"/></td>
-                                                                                                                                                              <td><img alt="Close Pull Requests" src="https://github.com/johnkinuthiaa/Zero-to-hero/pulls?q=is%3Apr+is%3Aclosed"/></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/johnkinuthiaa/Zero-to-hero?style=flat&logo=github"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/johnkinuthiaa/Zero-to-hero?style=flat&logo=github"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/johnkinuthiaa/Zero-to-hero?style=flat&logo=github"/></td>
+     <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/johnkinuthiaa/Zero-to-hero?style=flat&logo=github"/></td>
+     <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/johnkinuthiaa/Zero-to-hero?style=flat&color=critical&logo=github"/></td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +36,7 @@ Our mission is to provide a safe learning space to support everyone on their jou
 3. Submit a PR.
 4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
 5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
-6. Once your PR is approved and merged into the codebase, add your name to contributors.txt file)
+6. Once your PR is approved and merged into the codebase, add your name to contributors.txt file
 
 ## Status
 
@@ -44,12 +44,16 @@ Our mission is to provide a safe learning space to support everyone on their jou
 - Also, feel free to **follow me** on GitHub, **star** this repository, **share** it with your friendss.  
  ## Our Contributors ❤️
 
-<a href="https://github.com/johnkinuthiaa/Zero-to-hero/graphs/contributors">                                                                               </a>
+<a href="https://github.com/johnkinuthiaa/Zero-to-hero/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=johnkinuthiaa/Zero-to-hero" />
+</a>
 
 ## Future plans
 
 - expand the repo to all known languages and technologies.
 - Communication & collaboration is currently done via github and whatsapp 
-            
+
+## Lessons
+1. [Html](/Zero-to-hero/Html)
 # credits
     - John kinuthia ->creator
