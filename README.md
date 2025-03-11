@@ -1,9 +1,10 @@
 # Zero-to-hero
-# Your hands on learning repo
+
+## Your hands on learning repo
 
 - Are you New to coding Projects & not sure where to begin?
 - worry not!
-- Contribute to your very first open-source project in this beginner-friendly code repository!
+- This course teaches you market popular programming languages and industry standart technology from beginner to advanced level making you conpetent and confident in coding.
 
 <table >
     <thead align="center">
@@ -27,7 +28,7 @@
 </table>
 
 ## Our Mission
-Our mission is to provide a safe learning space to support everyone on their journey to become software developers 👨‍💻
+Our mission is to provide a safe learning space to support everyone on their journey to become competent software developers 👨‍💻
 
 ## How to contribute
 
@@ -41,7 +42,7 @@ Our mission is to provide a safe learning space to support everyone on their jou
 ## Status
 
 - You can start submitting your contributions/PRs right now ^^
-- Also, feel free to **follow me** on GitHub, **star** this repository, **share** it with your friendss.  
+- Also, feel free to **follow me** on GitHub, **star** this repository, **share** it with your friendss.
  ## Our Contributors ❤️
 
 <a href="https://github.com/johnkinuthiaa/Zero-to-hero/graphs/contributors">
@@ -53,7 +54,22 @@ Our mission is to provide a safe learning space to support everyone on their jou
 - expand the repo to all known languages and technologies.
 - Communication & collaboration is currently done via github and whatsapp 
 
-## Lessons
-1. [Html](/Zero-to-hero/Html)
+## Lessons and technologies to learn
+1. [Html](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Html)
+2. [Css](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Css)
+3. [JavaScript](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Javascript)
+4. [Typescript](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/TypeScript)
+5. [Python](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Python)
+6. [Java](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Java)
+7. [C++](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/c++)
+8. [Golang](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Golang)
+9. [Prompt engineering](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/prompt-engineering)
+10. [Sql](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Sql)
+
+## Projects
+Since this is a project based learning course,we have curated projects to enable you to get hands-on experience on real time projects for the technologies learned.
+ [Projects directory](https://github.com/johnkinuthiaa/Zero-to-hero/tree/main/Projects)
+
+
 # credits
     - John kinuthia ->creator
