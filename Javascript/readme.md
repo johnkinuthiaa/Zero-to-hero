@@ -25,7 +25,11 @@ npm -v # Should print "10.9.2".
 
 ## code editor requirements(for vsCode)
 To write javascript,you need some extensions to make your formating and debugging easier. Please  go to extensions tab and install the following:
-* pretier -code formatter
-* Eslint -intergrating javascript into vsCode 
-* Console ninja for error detection
-* JavaScript debugger(nightly)
+* pretier -code formatter.
+* Eslint -intergrating javascript into vsCode.
+* Console ninja for error detection.
+* JavaScript debugger(nightly).
+
+## next steps
+Congratulations!! you have just taken your first step to being a javascript prodigy.
+After installation, please navigate to lesson 1 to start learning your learning...see you there!

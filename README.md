@@ -34,10 +34,13 @@ Our mission is to provide a safe learning space to support everyone on their jou
 
 1. Fork this code repository.
 2. Add your Github username and Github profile link in the CONTRIBUTORS.md file.
-3. Submit a PR.
-4. Wait for your PR to be reviewed, approved & merged by an admin/owner.
-5. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
-6. Once your PR is approved and merged into the codebase, add your name to contributors.txt file
+3. clone this repository in your code editor and create a new branch with the name your feature using git branch featurename.
+4. make changes to the file.
+5. push your changes.
+6. Submit a PR.
+7. Wait for your PR to be reviewed, approved & merged by an admin/owner.
+8. If there are issues with your PR, please revise them in accordance to the comments made by the admins.
+9. Once your PR is approved and merged into the codebase, add your name to contributors.txt file
 
 ## Status
 
