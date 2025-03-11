@@ -9,4 +9,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 1. [john kinuthia](https://github.com/johnkinuthiaa)
 
 ## Contributors
-1. 
+1. [Angela Mwangi](https://github.com/angelamwangi)

@@ -47,7 +47,7 @@ Our mission is to provide a safe learning space to support everyone on their jou
 - You can start submitting your contributions/PRs right now ^^
 - Also, feel free to **follow me** on GitHub, **star** this repository, **share** it with your friendss.
  ## Our Contributors ❤️
-
+This will auto-generate so don't edit.
 <a href="https://github.com/johnkinuthiaa/Zero-to-hero/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=johnkinuthiaa/Zero-to-hero" />
 </a>
