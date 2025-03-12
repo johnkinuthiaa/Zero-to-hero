@@ -52,6 +52,7 @@ This will auto-generate so don't edit.<br>
   <img src="https://contrib.rocks/image?repo=johnkinuthiaa/Zero-to-hero" />
 </a>
 
+
 ## Future plans
 
 - expand the repo to all known languages and technologies.
