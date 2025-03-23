@@ -43,8 +43,7 @@ If you’re writing for experienced devs, you wouldn’t use the same tone as yo
 Summarize this article.
 ```
 
-**Advanced Prompt**: 
-``` Summarize this article in a concise yet technical tone, suitable for mid-level developers transitioning to cloud-native architectures.
+**Advanced Prompt**: ``` Summarize this article in a concise yet technical tone, suitable for mid-level developers transitioning to cloud-native architectures.
 ```
 
 By specifying tone and audience, you get responses that feel right.
@@ -58,8 +57,7 @@ Explain recursion.
 ```
 
 **Advanced Prompt**: 
-```
-Provide a deep dive into recursion, covering base and recursive cases, space complexity, and practical examples in Python and JavaScript.
+``` Provide a deep dive into recursion, covering base and recursive cases, space complexity, and practical examples in Python and JavaScript.
 ```
 
 #### Want depth? Ask for it explicitly.
