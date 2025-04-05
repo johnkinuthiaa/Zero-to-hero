@@ -10,3 +10,4 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 
 ## Contributors
 1. [Angela Mwangi](https://github.com/angelamwangi)
+2. [Bethwel Kiplagat](https://github.com/bethwel3001)
