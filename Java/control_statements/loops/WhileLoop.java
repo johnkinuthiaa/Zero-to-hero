@@ -20,7 +20,7 @@ public class WhileLoop {
         int j=0;
         do{
             // this will print first then check the condition
-            System.out.println(i);
+            System.out.println(j);
             j++;
         }while(i<10);
     }

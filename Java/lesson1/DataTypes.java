@@ -16,7 +16,7 @@ public class DataTypes{
         char letter ='A';
         String myName ="John";
         long ageOfSun =1234567654321234L;
-        double amount =100.45d;
+        // double amount =100.45d;
         boolean isRaining =false;
 
         System.out.println("My name is "
